@@ -11,7 +11,9 @@ Examples of ways of running the program:
 * Without arguments
 
 		linkcheck <filename
+		
 or   
+
 		cat filename | linkcheck
 
 * With arguments
