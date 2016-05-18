@@ -8,13 +8,13 @@ The program optionally takes an argument - the name of the file to check.  If th
 
 Examples of ways of running the program:
 
-1. Without arguments
+* Without arguments
 
-linkcheck <filename
+		linkcheck <filename
 or
-cat filename | linkcheck
+		cat filename | linkcheck
 
-2. With arguments
+* With arguments
 
 linkcheck filename
 
