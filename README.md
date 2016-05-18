@@ -11,12 +11,12 @@ Examples of ways of running the program:
 * Without arguments
 
 		linkcheck <filename
-or
+or   
 		cat filename | linkcheck
 
 * With arguments
 
-linkcheck filename
+		linkcheck filename
 
 ## Output and errors
 
